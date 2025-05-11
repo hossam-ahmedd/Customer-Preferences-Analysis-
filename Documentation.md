@@ -62,3 +62,15 @@ Business Actions:
 
 # Screenshots:
 ![Screenshot01](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033515.png?raw=true)
+![Screenshot02](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033527.png?raw=true)
+![Screenshot03](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033545.png?raw=true)
+![Screenshot04](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033600.png?raw=true)
+![Screenshot05](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033634.png?raw=true)
+![Screenshot06](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033656.png?raw=true)
+![Screenshot07](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033710.png?raw=true)
+![Screenshot08](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033740.png?raw=true)
+
+
+
+
+
