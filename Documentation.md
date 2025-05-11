@@ -61,4 +61,4 @@ Business Actions:
 - All preprocessing steps documented and codified
 
 # Screenshots:
-
+![Screenshot01]([https://github.com/hossam-ahmedd/juice-shop/blob/main/1.png?raw=true](https://github.com/hossam-ahmedd/Customer-Preferences-Analysis-/blob/main/Screenshot%202025-05-11%20033515.png,raw=true)
