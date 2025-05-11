@@ -59,3 +59,6 @@ Business Actions:
 # 8. Reproducibility
 - Random seed fixed (random_state=42)
 - All preprocessing steps documented and codified
+
+# Screenshots:
+
